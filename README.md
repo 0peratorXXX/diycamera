@@ -106,4 +106,4 @@ Still, it was a fun project to build.
 
 ## License
 
-<a href="https://github.com/yourusername/next-stage">My License</a> 
+<a href="https://0peratorxxx.github.io/arduino_oled_menu/">My License</a> 
